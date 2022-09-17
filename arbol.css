@@ -1,0 +1,146 @@
+body{
+	position: absolute;
+	margin-left: auto;
+	margin-right: auto;
+	left: 0;
+	right: 0;
+	text-align: center;
+	color:white;
+	background-color: black;
+}
+
+
+
+
+img{
+	z-index: -1;
+	position: absolute;
+	margin-left: auto;
+	margin-right: auto;
+	left: 0;
+	right: 0;
+	text-align: center;
+	background-color: white;
+}
+
+
+.bola1{
+	position: absolute;
+	background-color: pink;
+	width: 25px;
+	height: 25px;
+	border-radius: 50%;
+	z-index: 100;				
+	margin-left: auto;
+	margin-right: auto;
+	left: 0;
+	right: 0;
+	text-align: center;
+	 border: 2px black solid;
+
+}
+
+.bola2{
+	position: absolute;
+	background-color: gold;
+	width: 25px;
+	height: 25px;
+	border-radius: 50%;
+	z-index: 100;				
+	margin-left: auto;
+	margin-right: auto;
+	left: 0;
+	right: 0;
+	text-align: center;
+border: 2px black solid;
+}
+
+.bola3{
+	position: absolute;
+	background-color: blue;
+	width: 25px;
+	height: 25px;
+	border-radius: 50%;
+	z-index: 100;				
+	margin-left: auto;
+	margin-right: auto;
+	left: 0;
+	right: 0;
+	text-align: center;
+border: 2px black solid;
+}
+
+.bola4{
+	position: absolute;
+	background-color: green;
+	width: 25px;
+	height: 25px;
+	border-radius: 50%;
+	z-index: 100;				
+	margin-left: auto;
+	margin-right: auto;
+	left: 0;
+	right: 0;
+	text-align: center;
+border: 2px black solid;
+}
+
+.bola5{
+	position: absolute;
+	background-color: purple;
+	width: 25px;
+	height: 25px;
+	border-radius: 50%;
+	z-index: 100;				
+	margin-left: auto;
+	margin-right: auto;
+	left: 0;
+	right: 0;
+	text-align: center;
+border: 2px black solid;
+}
+
+.bola6{
+	position: absolute;
+	background-color: orange;
+	width: 25px;
+	height: 25px;
+	border-radius: 50%;
+	z-index: 100;				
+	margin-left: auto;
+	margin-right: auto;
+	left: 0;
+	right: 0;
+	text-align: center;
+border: 2px black solid;
+}
+
+.bola7{
+	position: absolute;
+	background-color: red;
+	width: 25px;
+	height: 25px;
+	border-radius: 50%;
+	z-index: 100;				
+	margin-left: auto;
+	margin-right: auto;
+	left: 0;
+	right: 0;
+	text-align: center;
+border: 2px black solid;
+}
+
+.bola8{
+	position: absolute;
+	background-color: silver;
+	width: 25px;
+	height: 25px;
+	border-radius: 50%;
+	z-index: 100;				
+	margin-left: auto;
+	margin-right: auto;
+	left: 0;
+	right: 0;
+	text-align: center;
+border: 2px black solid;
+}
